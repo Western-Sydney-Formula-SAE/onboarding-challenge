@@ -1,6 +1,5 @@
 # Onboarding Challenge (Autonomous)
 Submissions of the **coding onboarding challenge** for the Autonomous department in Western Sydney Formula SAE.
-Submissions of the research onboarding challenge are not uploaded here; they are submitted as part of the onboarding challenge survey.
 
 ## Making a Code Sumission
 
@@ -35,4 +34,4 @@ Submissions of the research onboarding challenge are not uploaded here; they are
     >
     > ![](https://lh3.googleusercontent.com/pw/AP1GczPucUHs2gGPa3kYpfnUjez-pK17OjUNqUdmPddQUV9UmoCwff2U5B9iEkgOHkWp5fSCI1xzpOkLJXl8GgW-Fgj3Qkjm6JYj4GOTopQApgU1NnFK8uI=w2400)
 
-4. You're done! Make sure you complete the onboarding challenge survey and upload your research challenge there. :)
+4. You're done! Make sure you submit your onboarding challenge survey.
